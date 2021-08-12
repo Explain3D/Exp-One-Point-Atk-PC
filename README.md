@@ -24,7 +24,7 @@ Test and visualize one instance randomly picked up from dataset with OPA and CTA
     python Test_single_ins_OPA.py
     python Test_single_ins_CTA.py
     
-<img src="https://github.com/Explain3D/Exp-One-Point-Atk-PC/blob/main/pic/exp_opa.png?raw=true" width="500px">
+<img src="https://github.com/Explain3D/Exp-One-Point-Atk-PC/blob/main/pic/exp_opa.png?raw=true" width="400px">
 
 
 Quantitatively evaluate the attack performance:
