@@ -26,10 +26,10 @@ Test and visualize one instance randomly picked up from dataset with OPA and CTA
     
 <img src="https://github.com/Explain3D/Exp-One-Point-Atk-PC/blob/main/pic/exp_opa.png?raw=true" width="400px">
 
+![Image text](https://github.com/Explain3D/Exp-One-Point-Atk-PC/blob/main/pic/exp_cta.png?raw=true)
 
 Quantitatively evaluate the attack performance:
 
     python Eval_OPA.py
     python Eval_CTA.py
     
-![Image text](https://github.com/Explain3D/Exp-One-Point-Atk-PC/blob/main/pic/exp_cta.png?raw=true)
