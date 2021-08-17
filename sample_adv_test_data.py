@@ -2,7 +2,7 @@
 """
 Created on Fri Apr 16 12:13:16 2021
 
-@author: ltan
+@author: 
 """
 
 import numpy as np
